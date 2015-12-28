@@ -1,0 +1,12 @@
+#RandomForestProperty
+I=400
+K=0
+#LogisticRegressionProperty
+R=0.0004
+#ADTreeProperty
+B=100
+#TEST FILES
+INPUT_TRAIN_70=C:/Users/Bijal/Documents/EECS 738 - Machine Learning/Project/Files from prabha/Category/EECS738_Train_70.arff
+INPUT_TEST_30=C:/Users/Bijal/Documents/EECS 738 - Machine Learning/Project/Files from prabha/Category/EECS738_Test_30.arff
+INPUT_TEST_NO_LABEL=C:/Users/Bijal/Documents/EECS 738 - Machine Learning/Project/Files from prabha/Category/EECS738_Test.arff
+PREDICTION_FILE=C:/Users/Bijal/Documents/EECS 738 - Machine Learning/Project/Files from prabha/Category/EECS738_prediction.txt

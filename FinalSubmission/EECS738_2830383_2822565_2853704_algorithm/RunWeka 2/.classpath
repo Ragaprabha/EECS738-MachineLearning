@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bijal/Downloads/weka-3-7-13/weka-3-7-13/weka.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bijal/Documents/EECS 738 - Machine Learning/Project/libsvm-3.20/libsvm-3.20/java/libsvm.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Bijal/wekafiles/packages/alternatingDecisionTrees/alternatingDecisionTrees.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Bijal/wekafiles/packages/classifierBasedAttributeSelection/classifierBasedAttributeSelection.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
